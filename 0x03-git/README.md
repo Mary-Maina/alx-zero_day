@@ -1,1 +1,1 @@
-I am still afraid of Git
+I am still afraid of Git as a beginner in ALX program
